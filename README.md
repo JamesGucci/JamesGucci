@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesGucci.
-- 👀 I’m interested in Visual-Programing.
+- 👀 I’m interested in Visual-Programming.
 - 🌱 I’m currently learning ES6(JS).
-- 💞️ I’m looking to collaborate on Visual-Programing.
+- 💞️ I’m looking to collaborate on Visual-Programming.
 - 📫 How to reach me : Please send message to my twitter account(@arouser_james).
 
 
